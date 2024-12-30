@@ -1,5 +1,3 @@
-### **Mall Customer Segmentation Analysis**
-
 #### **Participant Details**:
 - **Name**: Harshkumar Gupta  
 - **Company**: CODTECH IT SOLUTIONS  
@@ -7,6 +5,11 @@
 - **Domain**: Data Analytics  
 - **Duration**: Dec 2024 to March 2025  
 - **Mentor**: NEELA SANTHOSH KUMAR  
+
+
+# CODTECH-TASK-2-Customer Segmentation Analysis
+
+### **Mall Customer Segmentation Analysis**
 
 ---
 
