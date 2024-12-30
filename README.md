@@ -83,10 +83,4 @@ The insights derived from this study are designed to inform business decisions, 
      - Highlighted potential outliers in `Annual Income` or `Spending Score`.
 
 ---
-"""
 
-readme_file_path = "/mnt/data/README.md"
-with open(readme_file_path, "w") as readme_file:
-    readme_file.write(readme_md_content)
-
-readme_file_path
